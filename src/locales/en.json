@@ -1,0 +1,199 @@
+{
+  "RSA Logo": "RSA Logo",
+  "Your Gateway to {clientName}'s UAE Free Zone Program": "Your Gateway to {clientName}'s UAE Free Zone Program",
+  "Login": "Login",
+  "home.h1": "Your clearance and compliance partner",
+  "home.p1": "As your IOR we are responsible for maintaining and archiving the books of records pertaining to customs clearance and documentation, as well as obtaining other required permits from regulatory authorities.",
+  "home.h2": "Our privilege is YOURS",
+  "home.p2": "We are a member of World Customs AEO and World Logistics Passport certificate holder, giving us prioritization privileges for customs inspection and clearance, post-clearance audits and online customs approval.",
+  "home.h3": "Time and cost-efficiency",
+  "home.p3": "Save time and money while improving the accuracy of your shipping plans and schedules.",
+  "home.h4": "IOR duties done right",
+  "home.p4": "Our duties as your Importer of Record include completion and filing of necessary import documentation, accurate valuation of imported goods in line with local laws and the audit and implementation of necessary compliance tools.",
+  "Seller Company Name": "Seller Company Name",
+  "Field is required": "Field is required",
+  "Value must be at least": "Value must be at least",
+  "Company Legal Name": "Company Legal Name",
+  "Signatory Name": "Signatory Name",
+  "Email": "Email",
+  "Phone number": "Phone number",
+  "{clientName} Merchant Token": "{clientName} Merchant Token",
+  "Job Title": "Job Title",
+  "Country": "Country",
+  "Also looking for": "Also looking for",
+  "By submitting this form, you agree to our": "By submitting this form, you agree to our",
+  "and": "and",
+  "Terms of Use": "Terms of Use",
+  "Privacy Policy": "Privacy Policy",
+  "Submit": "Submit",
+  "E-mail must be valid": "E-mail must be valid",
+  "Follow the steps for an easy onboarding process": "Follow the steps for an easy onboarding process",
+  "Step1Title": "SIGN UP",
+  "Step1Text": "As the first step please provide your company details so we can start sending you relevant material on the programme.",
+  "Step2Title": "AGREEMENT SIGNED",
+  "Step2Text": "Sign up with RSA Global as your Importer/ Exporter of Record and enable shipments to Amazon's Fulfillment Center in the UAE Free Zone",
+  "Step3Title": "ENROLLMENT",
+  "Step3Text": "Once you are officially enrolled, our team will contact you to guide with payment and shipping details.",
+  "Step4Title": "PAYMENT",
+  "Step4Text": "After you have shared the shipping details, our team will provide the payment summary. Payment will be taken upfront, post which you can ship your shipment.",
+  "Step5Title": "SHIP",
+  "Step5Text": "Once your consignment is shipped, provide pre-alert data to enable smooth customs clearance into UAE, and speedy delivery to Amazon's Fulfillment Center",
+  "Terms And Conditions": "Terms And Conditions",
+  "Service Agreement": "Service Agreement",
+  "for": "for",
+  "Importer & Exporter of Record": "Importer & Exporter of Record",
+  "This name will be used for all agreement purposes": "This name will be used for all agreement purposes",
+  "Legal Address": "Legal Address",
+  "I Agree & I'm ready for e-sign": "I Agree & I'm ready for e-sign",
+  "IOR Services": "IOR Services",
+  "Submit & Download": "Submit & Download",
+  "Please confirm that you have read and agree to the Privacy Policy and Terms of Use": "Please confirm that you have read and agree to the Privacy Policy and Terms of Use",
+  "I have verified the agreement": "I have verified the agreement",
+  "Please confirm that you have verified the agreement": "Please confirm that you have verified the agreement",
+  "Frequently Asked Questions": "Frequently Asked Questions",
+  "allFAQs": [
+    {
+      "qtn": "Where is RSA located?",
+      "ans": "RSA is headquartered in Dubai, UAE, with partners and offices around the world"
+    },
+    {
+      "qtn": "What services can RSA provide?",
+      "ans": "RSA can support you with IOR/EOR services, customs clearance, freight, storage and fulfillment"
+    },
+    {
+      "qtn": "What is RSA's address?",
+      "ans": "Consignments for which RSA is IOR must be sent to:<br/>RSA E-commerce and Digital Logistics DWC-LLC<br/>Dubai Logistics City ( DWC)<br/>Dubai South – United Arab Emirates<br/>P.O.Box 644313, Dubai, U.A.E,<br/>Mob : +971508548493 / +971554462208<br/>CTC: Alexandro Posas / Russell Katipunan<br/>EMAIL: ior.support@rsa.global"
+    },
+    {
+      "qtn": "What is the responsibility of the IOR?",
+      "ans": "The duties of an Importer of Record IOR include completion and filing of necessary import documentation, accurate valuation of imported goods in line with local laws and the audit and implementation of necessary compliance tools"
+    },
+    {
+      "qtn": "How long does it take for RSA to activate services?",
+      "ans": "Once you have signed the IOR agreement, RSA will activate service within 24 business hours"
+    },
+    {
+      "qtn": "Who is the consignee if I am shipping to UAE?",
+      "ans": "RSA E-commerce and Digital Logistics DWC-LLC"
+    },
+    {
+      "qtn": "How can I check if my products are eligible for this program?",
+      "ans": "General cargo goods are eligible for this program. To check your product eligibility, you can use the HS code database provided to you on email you once you sign up on the portal. This will tell you if your goods are restricted or not. Once you have finished enrollment by signing the agreement with RSA, you will receive log in credentials. You can then 'Look Up HS Codes' or 'Check Product Eligibility' in the portal as well."
+    },
+    {
+      "qtn": "What is IOR and EOR?",
+      "ans": "IOR is Importer of Record; EOR is Exporter of Record"
+    },
+    {
+      "qtn": "What are the advantages of enrolling in this program?",
+      "ans": "Sending your goods to the free zone allows you to gain access to a customer base in the UAE and MENA markets without paying VAT or duty"
+    },
+    {
+      "qtn": "How can I avail of RSA's freight services?",
+      "ans": "Simply request a quote on the portal once you receive your log in credentials"
+    },
+    {
+      "qtn": "What is the advantage of RSA's IOR services?",
+      "ans": "We are a member of World Customs AEO and World Logistics Passport certificate holder, giving us prioritization privileges for customs inspection and clearance, post-clearance audits and online customs approval."
+    },
+    {
+      "qtn": "How much are the IOR service charges?",
+      "ans": "Standalone IOR fees are $60 per shipment for all regions except China (please contact your account manager if you are shipping from China). You will also pay an additional clearance fee per shipment which is $35 per shipment if air freight is used; and up to $45 for FCL sea freight shipment"
+    },
+    {
+      "qtn": "Can RSA provide me with the shipping labels?",
+      "ans": "Yes, if RSA is your chosen freight forwarding agent"
+    },
+    {
+      "qtn": "Who will take care of my packages when they arrive in Dubai?",
+      "ans": "If RSA is your freight forwarding agent, we will take care of the goods end-to-end"
+    },
+    {
+      "qtn": "Where will my products be stored and how can I get inventory visibility?",
+      "ans": "Your products will be stored at DWC3 - Amazon's Fulfillment Center in the free zone. You can get inventory visibility on Amazon Seller Central"
+    },
+    {
+      "qtn": "How long does it take for my shipment to get cleared once it arrives at UAE?",
+      "ans": "Clearance will take up to 48 hours (unless inspection is required, for which we will keep you informed. But this is rarely required if the items have been declared correctly)"
+    },
+    {
+      "qtn": "Do we have to pay the IOR fee for each shipment?",
+      "ans": "Yes, payment for IOR and clearance has to be made upfront for each shipment"
+    },
+    {
+      "qtn": "Does IOR fee depend on the size of the shipment?",
+      "ans": "No, IOR fees are a flat amount and irrespective of size of shipment"
+    },
+    {
+      "qtn": "What if I am using my own freight forwarding agent?",
+      "ans": "You only pay IOR and clearance fees to RSA"
+    },
+    {
+      "qtn": "What is RSA's Mirsal 2 import code?",
+      "ans": "Mirsal 2: AE-1146354"
+    },
+    {
+      "qtn": "Who will pay VAT on my sold goods?",
+      "ans": "VAT is applied to the bill when your customer places an order on amazon.com"
+    },
+    {
+      "qtn": "Are there any additional charges aside from IOR, BOE and carrier charges?",
+      "ans": "No, only a processing fee for payments as per payment mode"
+    },
+    {
+      "qtn": "Do we have to pay any duty or taxes when shipping goods?",
+      "ans": "No, because you are shipping to a free zone"
+    },
+    {
+      "qtn": "When do I make the payment?",
+      "ans": "All payments need to be made prior to shipping your goods, and goods can only be shipped once RSA confirms payment receipt"
+    },
+    {
+      "qtn": "What are my payment options?",
+      "ans": "Credit card and bank transfer"
+    },
+    {
+      "qtn": "What products can I import?",
+      "ans": "General cargo goods are eligible for this program. For other categories, special permits need to be applied for."
+    },
+    {
+      "qtn": "What are the maximum sizes or weight allowed for me to ship?",
+      "ans": "Courier mode: Per Pcs weight should be 70Kgs and max dims is 100x100x100cm<br/>Air Freight mode: max dims 200x300x155 LWH"
+    },
+    {
+      "qtn": "Can RSA arrange shipping if my products are coming from a different origin point, and not where my company is based?",
+      "ans": "Yes"
+    },
+    {
+      "qtn": "What if I want to re-export to Saudi?",
+      "ans": "This service is available through Amazon"
+    },
+    {
+      "qtn": "Is RSA holding the inventory?",
+      "ans": "No, the inventory is being stored at the Amazon fulfillment center in the free zone"
+    },
+    {
+      "qtn": "Who handles the delivery and returns?",
+      "ans": "Amazon will handle customer deliveries and returns. Returns to seller's origin country will have to be organized by the seller. RSA can support with shipping."
+    },
+    {
+      "qtn": "What is the difference between packing list and commercial invoice?",
+      "ans": "The template that we require you to use are the same for the packing list and commercial invoice."
+    },
+    {
+      "qtn": "Do sellers need to provide commercial invoice digitally or printout?",
+      "ans": "Shipments need to be accompanied with 3 printouts. For pre-alerts please share digital copies"
+    },
+    {
+      "qtn": "How are IOR fees applied - is it by AWB?",
+      "ans": "IOR fees to be paid per airwaybill (AWB). If your shipment is split into two AWBs you will have to pay 2 times the IOR fees"
+    }
+  ],
+  "Search": "Search",
+  "No Data Found": "No Data Found",
+  "Sign Up": "Sign Up",
+  "Process Flow": "Process Flow",
+  "FAQs": "FAQs",
+  "Preferred language": "Preferred language",
+  "© RSA 2022 | Designed & Developed by RSA Global": "© RSA 2022 | Designed & Developed by RSA Global"
+}

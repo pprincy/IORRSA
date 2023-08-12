@@ -1,0 +1,12 @@
+$body-font-family: 'DubaiW23-Bold';
+$heading-font-family: 'DubaiW23-Bold';
+
+$headings: (
+    'h1': ('font-family': $heading-font-family),
+    'h2': ('font-family': $heading-font-family),
+    'h3': ('font-family': $heading-font-family),
+    'h4': ('font-family': $heading-font-family),
+    'h5': ('font-family': $heading-font-family),
+    'h6': ('font-family': $heading-font-family)
+);
+$primary: #233168;
